@@ -1,0 +1,7 @@
+name: stream_todomvc
+description: A sample WebUI application
+dependencies:
+  browser: any
+  js: any
+  web_ui: 0.4.1+7
+  stream: 0.5.5+1
